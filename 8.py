@@ -1,8 +1,8 @@
 p=int(input())
-add=0
+sum2=0
 while(p>0):
-  add=add+p
+  sum2=add+p
   p=p-1
-print(add)  
+print(sum2)  
   
   
