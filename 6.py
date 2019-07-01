@@ -1,5 +1,5 @@
-p=int(input(""))
+p=int(input())
 if(p%4==0 or p%400==0 and p%100==0):
-  print('yes')
+  print("yes")
 else:
-  print('no')
+  print("no")
