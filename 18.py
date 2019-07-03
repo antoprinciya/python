@@ -1,5 +1,5 @@
-z,y=map(int,input().split())
-for j in range(z+1,y):
+z,t=map(int,input().split())
+for j in range(z+1,t):
   ch=j
   fnd=0
   while (j>0):
