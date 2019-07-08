@@ -1,8 +1,8 @@
 an1,pr=map(int,input().split())
 odd=list(map(int,input().split()))
-pt=0
-for t in odd:
- if(t==prr):
+gh=0
+for i in odd:
+ if(i==prr):
   print("yes")
   break
 else:
