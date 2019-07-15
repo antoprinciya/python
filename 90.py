@@ -2,5 +2,5 @@ an=input()
 j=[]
 for v in an:
 	if v.isnumeric():
-		j.append(t)
+		j.append(v)
 print(''.join(v))
