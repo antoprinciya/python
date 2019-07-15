@@ -1,2 +1,2 @@
-C=int(input())
-print(C+273)
+CELSI=int(input())
+print(CELSI+273)
